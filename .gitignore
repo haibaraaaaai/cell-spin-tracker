@@ -1,6 +1,9 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 
+# virtual environment
+.venv/
+
 # ignore data files but keep the folder
 data/*
 !data/.gitkeep
